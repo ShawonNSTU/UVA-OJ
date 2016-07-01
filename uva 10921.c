@@ -1,3 +1,8 @@
+/*
+    Email:shuvroshawon9@gmail.com
+    UVA:shawon.ice.nstu
+*/
+
 #include <stdio.h>
 int ch[91];
 char s[31];
