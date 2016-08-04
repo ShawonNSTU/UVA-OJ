@@ -1,3 +1,8 @@
+/* 
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <stdio.h>
 typedef unsigned long int ulint;
 int calculation(ulint i, int l);
