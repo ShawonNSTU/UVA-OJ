@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <string.h>
 char str[100][1000];
-int len[100],array[150],k;
+int len[100],array[1005],k;
 void BIG_INT_SUM(int MAX_LEN,int depth)
 {
     int sum,i,j,carry=0;
