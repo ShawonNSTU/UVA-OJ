@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <stdio.h>
 #include <string.h>
 char str[100][1000];
