@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <stdio.h>
 #include <math.h>
 #define MAX 100000000
