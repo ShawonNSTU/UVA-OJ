@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <stdio.h>
 #define MAX 1000001
 int ara[MAX];
