@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <bits/stdc++.h>
 long long bigmod(long long base,int power,int mod);
 int main()
