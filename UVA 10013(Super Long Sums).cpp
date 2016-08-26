@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <bits/stdc++.h>
 #define MAX 1000001
 int digits[MAX];
