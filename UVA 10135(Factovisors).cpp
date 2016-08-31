@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    uhunt: shawon.ice.nstu
+*/
+
 #include <bits/stdc++.h>
 
 /* the function is used to get the power of i in n!
